@@ -25,7 +25,7 @@ Este projeto é uma aplicação web simples desenvolvida com a finalidade de dem
 |-------------------------------|----------------------------------------------------------------------|---------------------------------------------|
 | Bruna Kaori Takuti            | <img src="https://github.com/tkaoribruna.png" width="100"/>          | https://github.com/tkaoribruna              |
 | Daniel Durante Francisco Dias | <img src="https://github.com/Dandurant.png" width="100"/>            | https://github.com/Dandurant                |
-| Guilherme Guimarães           | <img src="https://github.com/.png" width="100"/>       | https://github.com/lucasppinheiro           |
+| Guilherme Guimarães           | <img src="https://github.com/guilhermemussi1.png" width="100"/>      | https://github.com/guilhermemussi1          |
 | Lucas Pinheiro                | <img src="https://github.com/lucasppinheiro.png" width="100"/>       | https://github.com/lucasppinheiro           |
 | Rafael Moreira Rosa           | <img src="https://github.com/FaelMoreiraRosa.png" width="100"/>      | https://github.com/FaelMoreiraRosa          |
 ---
